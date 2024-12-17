@@ -16,7 +16,7 @@ Ciara and Juan partner, allowing for five hires. This includes:
 - 3 AI Engineers
 - 1 Web Designer
 - 1 Systems Engineer
-- (Optional) 1 Security Employee
+- 1 Security Employee (Optional) 
 
 ## Methodology
 - **CSP Framework**: Includes variables (roles), value domains (candidates), and constraints (skills and role limits).
