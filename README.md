@@ -1,7 +1,7 @@
-# AI and Data Visualization Integrated CA
+# AI and Data Visualisation Integrated CA
 
 ## Project Overview
-This project involves solving Constraint Satisfaction Problems (CSPs) for an AI-based logistics company. The tasks include analyzing hiring scenarios, comparing CSP solutions with other algorithms, and visualizing the results.
+This project involves solving Constraint Satisfaction Problems (CSPs) for an AI-based logistics company. The tasks include analysing hiring scenarios, comparing CSP solutions with other algorithms, and visualizing the results.
 
 ## Scenarios
 ### Scenario 1
@@ -26,7 +26,7 @@ Ciara and Juan partner, allowing for five hires. This includes:
 ## How to Run
 - Open the Jupyter Notebook file (`AlessandraCaballero_AI_DV_ICA.ipynb`).
 - Follow the step-by-step explanation for CSP solutions for both scenarios.
-- Review the visualizations and comparisons.
+- Review the visualisations and comparisons.
 
 ## Files in this Repository
 - **AlessandraCaballero_AI_DV_ICA.ipynb**: Main notebook containing the CSP implementation, comparisons, and visualizations.
@@ -35,4 +35,4 @@ Ciara and Juan partner, allowing for five hires. This includes:
 
 ## License
 This project is submitted as part of the CA for Artificial Intelligence and Data Visualization.
-# ca2-integrated-missalexityy
+# ca2-integrated-2021258
